@@ -4832,7 +4832,7 @@ ParticleSystemRenderer:
   m_MeshWeighting1: 1
   m_MeshWeighting2: 1
   m_MeshWeighting3: 1
-  m_MaskInteraction: 0
+  m_MaskInteraction: 1
 --- !u!1 &1852895072071653996
 GameObject:
   m_ObjectHideFlags: 0
@@ -9679,7 +9679,7 @@ GameObject:
   - component: {fileID: 741827565827888939}
   - component: {fileID: 2517027555151619245}
   m_Layer: 0
-  m_Name: BloodParticleExplosion
+  m_Name: BloodParticleBigExplosion
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14506,4 +14506,4 @@ ParticleSystemRenderer:
   m_MeshWeighting1: 1
   m_MeshWeighting2: 1
   m_MeshWeighting3: 1
-  m_MaskInteraction: 0
+  m_MaskInteraction: 1
